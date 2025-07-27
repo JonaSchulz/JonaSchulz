@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JonaSchulz
-- 👀 I’m interested in Deep Learning, Computer Vision, Neuroscience
+- 👀 I’m interested in Reinforcement Learning, Robotics and Neuroscience
 - 📫 How to reach me: schulzj@student.ethz.ch
 
 <!---
